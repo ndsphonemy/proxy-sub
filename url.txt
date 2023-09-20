@@ -2,6 +2,6 @@ https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/default.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/my.txt
 
-https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/rus.txt
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/ru.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt
