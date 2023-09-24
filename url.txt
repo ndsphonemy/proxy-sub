@@ -1,9 +1,17 @@
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/default.txt
 
-https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/my.txt
-
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/all.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/my.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/ru.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/ru-arch.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/tmp1.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/tmp2.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/tmp3.txt
