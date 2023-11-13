@@ -1,4 +1,4 @@
-trojan://aabccba-abac-cbaa-adbc-ccaabcbcabba@127.0.0.1:1080?security=tls&type=tcp#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-12-November-2023%20%F0%9F%95%91%2020:41
+trojan://aabccba-abac-cbaa-adbc-ccaabcbcabba@127.0.0.1:1080?security=tls&sni=bing.com&type=tcp#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-12-November-2023%20%F0%9F%95%91%2020:41
 trojan://065399ac-9ca9-3f0b-abcd-e5051b05d856@193.123.87.138:10443?security=tls&sni=duvip001.qlgq1.pw&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://your_password@3.29.95.54:443?security=tls&sni=aws-uae-1.f1rocketnode.com&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://af0596ab-e686-4f1d-af62-7a88b1cad911@3.28.218.97:443?security=tls&sni=tlsdata.cnamazon.sbs&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
