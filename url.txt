@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/ru-arch.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/lt-sub-all.txt
 
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt
+
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/tmp1.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/tmp2.txt
