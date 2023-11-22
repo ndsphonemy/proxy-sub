@@ -2,8 +2,6 @@ https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/default.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt
 
-https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/all.txt
-
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/lt-sub.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/my.txt
@@ -12,9 +10,17 @@ https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/ru.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/ru-arch.txt
 
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/http-proxy.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/socks-proxy.txt
+
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/all.txt
+
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/lt-sub-all.txt
 
-https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/all-hs-proxy.txt
 
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/tmp1.txt
 
