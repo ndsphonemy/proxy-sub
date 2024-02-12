@@ -1,4 +1,4 @@
-socks5://127.0.0.1:2080#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-20-January-2024%20%F0%9F%95%91%2018:08
+socks5://127.0.0.1:2080#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-12-February-2024%20%F0%9F%95%91%2010:51
 trojan://DyfJdxwmDqJSAHHfoL@94.182.177.67:2083?security=tls&sni=apps.efixhost.com&alpn=http/1.1&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran,%20Islamic%20Republic%20Of%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 vmess://eyJhZGQiOiIxMDQuMTcuMjQ1LjEiLCJhaWQiOiIwIiwiaG9zdCI6ImhkZnk1YXV0b2lwLmZvcmlyYW4udHJhZGUiLCJpZCI6IjI1MTc4MGMxLTE1MDEtNDNiMy1iZTJhLWQxNDRhMjBkNDc5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9OYnMyRFNUU2tGVzZNcnJGUUhlU0RRNyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Pwn4emIE5hbWliaWEgLSBOQSDwn4yNIFZNLVdTLVRMUyA04oOjIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJoZGZ5NWF1dG9pcC5mb3JpcmFuLnRyYWRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@162.159.0.33:443?security=tls&sni=ed.ariesver.online&fp=chrome&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai_8/?ed%3D2048&host=ed.ariesver.online&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3

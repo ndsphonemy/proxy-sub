@@ -1,3 +1,4 @@
+socks5://127.0.0.1:2080#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-12-February-2024%20%F0%9F%95%91%2010:51
 hysteria://1.162.142.9:22334?upmbps=50&downmbps=80&auth=dongtaiwang.com&insecure=1&alpn=h3#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20HY1-UDP-TLS%204%E2%83%A3
 hysteria://108.181.22.239:39967?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=eli.ELiV2.top&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
 hysteria://167.160.91.115:41189?upmbps=55&downmbps=110&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
@@ -22,7 +23,6 @@ hy2://d017e316-82cb-441c-8eea-7b5e9de64a20@45.150.165.84:8881?obfs=salamander&ob
 hy2://9448new@141.11.92.27:8445?obfs=salamander&obfs-password=fuckme&sni=la5.aliz.work#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Crugers%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://4a52c165e81fa8fc@70.34.213.123:443?obfs=salamander&obfs-password=a16d0be0&insecure=1&sni=T.me/IP_CF#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Spanga%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG%20%40WangCai_1=@45.11.104.44:3074?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
-socks5://127.0.0.1:2080#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-12-February-2024%20%F0%9F%95%91%2010:51
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1&sni=ELiV2RAY.eliv2.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
