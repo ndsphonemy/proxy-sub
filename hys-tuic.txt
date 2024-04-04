@@ -1,8 +1,5 @@
-socks5://127.0.0.1:2080#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-28-March-2024%20%F0%9F%95%91%2006:05
+socks5://127.0.0.1:2080#%20%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%2004-April-2024%20%F0%9F%95%91%2013:05
 hysteria://51.158.54.46:55396?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=youku.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY1-UDP-TLS%204%E2%83%A3
-hysteria://167.160.91.115:41189?upmbps=55&downmbps=110&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
-hysteria://167.160.91.115:41189?upmbps=50&downmbps=100&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
-hysteria://167.160.91.115:41189?upmbps=11&downmbps=55&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
 hy2://651aaeae-ebeb-4118-a34d-3afbe8f14903@128.140.90.79:24647?obfs=salamander&obfs-password=wSvgfh8Gl0&sni=downloads.segaro.tech#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=eli.ELiV2.top#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=ELiV2RAY.eliv2.top#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
@@ -15,11 +12,8 @@ hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=eliv2ray.eliv2.top#%F0%9
 hy2://dongtaiwang.com@51.159.213.39:22483?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
-hy2://3bffc5f5836e914a@91.107.206.98:6060?obfs=salamander&obfs-password=ff181c1e&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG%20%40WangCai_1=@45.11.104.79:3074?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://sTeki1$re5!8swohopro@78.141.215.68:443?obfs=salamander&obfs-password=sTeki1$re5!8swohopro&insecure=1&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
-hy2://fokaS4id3bretay-7rit@78.141.216.41:443?obfs=salamander&obfs-password=fokaS4id3bretay-7rit&insecure=1&sni=ELiV2RAY.eliv2.top#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
-hy2://620b3ad2-6d72-4795-9b36-729a705a8070@139.144.113.21:25482?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://620b3ad2-6d72-4795-9b36-729a705a8070@139.162.48.142:9527?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://fokaS4id3bretay-7rit@78.141.216.41:443?obfs=salamander&obfs-password=fokaS4id3bretay-7rit&insecure=1&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=ELiV2RAY.eliv2.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Piscataway%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
