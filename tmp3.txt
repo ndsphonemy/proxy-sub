@@ -70,3 +70,5 @@ vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&alp
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.35:443?security=reality&sni=www.apple.com&fp=randomized&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221&type=tcp&flow=xtls-rprx-vision&encryption=none#@Deamnet(%F0%9F%87%B9%F0%9F%87%B7+Turkey+Reality)
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.35:8443?security=tls&alpn=h2&fp=chrome&type=tcp&encryption=none#Deamnet+(%F0%9F%87%B9%F0%9F%87%B7+TurkeyVLESS)
 vless://b9da3ea6-2b5e-34ed-e76a-bc300de5a67b@lva.lagommm.xyz:443?security=reality&sni=lagommm.xyz&fp=chrome&pbk=AM3UWsVe_saYG1F0vGPJsCZl-xitJeTkqqxaOpRh5Uo&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20Riga
+ss://2022-blake3-aes-256-gcm:X0xJs7Bn4yXxePbQhfsKqc0CiAi5a7tcV6GFPCyYWn4%3D%3ALiWM%2BH%2BSWMrNnYZiOjpmOzWMW0BMYCBrLC57O5Ub%2BNs%3D@212.118.42.181:9260#%F0%9F%92%A1%F0%9F%87%B3%F0%9F%87%B1%20NL%20212.118.42.181%20%E2%97%88%20tcp:9260%20%E2%97%88%20Servers%20Tech%20Fzco%20%E2%97%88%20fd6d9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUlRTL2kyU0lTdG53T3Exby9wMEhrVlBlaXNYUTJmMmIrVHZUUjJFN1FNPQ==@45.67.32.147:28327#Usa
