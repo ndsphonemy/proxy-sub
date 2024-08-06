@@ -69,3 +69,4 @@ vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&alpn=h2&fp=chrome&type=tcp&encryption=none#Deamnet(%F0%9F%87%A9%F0%9F%87%AA+GermanyVLESS)
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.35:443?security=reality&sni=www.apple.com&fp=randomized&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221&type=tcp&flow=xtls-rprx-vision&encryption=none#@Deamnet(%F0%9F%87%B9%F0%9F%87%B7+Turkey+Reality)
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.35:8443?security=tls&alpn=h2&fp=chrome&type=tcp&encryption=none#Deamnet+(%F0%9F%87%B9%F0%9F%87%B7+TurkeyVLESS)
+vless://b9da3ea6-2b5e-34ed-e76a-bc300de5a67b@lva.lagommm.xyz:443?security=reality&sni=lagommm.xyz&fp=chrome&pbk=AM3UWsVe_saYG1F0vGPJsCZl-xitJeTkqqxaOpRh5Uo&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20Riga
