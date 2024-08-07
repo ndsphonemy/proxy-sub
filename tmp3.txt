@@ -43,7 +43,6 @@ vless://fi@5.181.23.116:7777?security=&fp=chrome&type=ws&path=/&encryption=none#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#Austria
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.33:8119#USA
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.33:8882#USA
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.108:2375#USA
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.222:7002#USA
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@15.204.87.222:6697#USA
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#USA
@@ -57,14 +56,6 @@ vmess://eyJhZGQiOiI2OC4xNjguMzEuMjQyIiwiYWlkIjoiMCIsImhvc3QiOiI2OC4xNjguMzEuMjQy
 vmess://eyJhZGQiOiI2OC4xNjguMzEuMjQyIiwiYWlkIjoiMCIsImhvc3QiOiI2OC4xNjguMzEuMjQyIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhpQgVjJSQVkiLCJzY3kiOiJhdXRvIiwic25pIjoiNjguMTY4LjMxLjI0MiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.218:8443?security=tls&sni=a.ssll.gay&fp=chrome&type=ws&path=/&host=a.ssll.gay&encryption=none#ssv2rey
 vless://edade224-ab25-46e0-a41b-b415b182a59d@65.109.206.218:443?security=tls&sni=qwerdgy47892drvseddsesswdownload.namava.network&alpn=http/1.1&fp=chrome&type=ws&path=/54051/download&host=qwerdgy47892drvseddsesswdownload.namava.network&encryption=none#%F0%9F%94%92%F0%9F%87%AB%F0%9F%87%AE%20FI%2065.109.206.218%20%E2%97%88%20ws:443%20%E2%97%88%20Hetzner%20%E2%97%88%205acda
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489?insecure=1#@V2rayMiner
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk2.zhenshihui.one:48489#@V2rayMiner
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@jp.zhenshihui.one:48489#@V2rayMiner
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@jp2.zhenshihui.one:48489#@V2rayMiner
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@sg.zhenshihui.one:48489#@V2rayMiner
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@sg2.zhenshihui.one:48489#@V2rayMiner
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@kr.zhenshihui.one:48489#@V2rayMiner
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@us.zhenshihui.one:48489#@V2rayMiner
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&sni=www.cloudflare.com&fp=randomized&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221&type=tcp&flow=xtls-rprx-vision&encryption=none#Deamnet+(%F0%9F%87%A9%F0%9F%87%AA+GermanyReality)
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&alpn=h2&fp=chrome&type=tcp&encryption=none#Deamnet(%F0%9F%87%A9%F0%9F%87%AA+GermanyVLESS)
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.35:443?security=reality&sni=www.apple.com&fp=randomized&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221&type=tcp&flow=xtls-rprx-vision&encryption=none#@Deamnet(%F0%9F%87%B9%F0%9F%87%B7+Turkey+Reality)
