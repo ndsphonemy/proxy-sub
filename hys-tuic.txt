@@ -493,7 +493,7 @@ hysteria://t3.teslacdn2.live:443?upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=
 hysteria://t3.teslacdn2.live:443?upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=8ZuA2Zpqhuk8yakXvMjDqEXBwY#@amofil%D8%AA%D9%88%D8%AC%D9%87:%D9%87%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C%D8%A7%D8%A8%D8%AF%D9%88%D9%86%D9%81%D8%A7%DB%8C%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C%D9%85%D8%B1%D8%A8%D9%88%D8%B7%D8%A8%D9%87%D8%AE%D9%88%D8%AF%D8%B4%D8%AF%D8%B1%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%88%DB%8C%D9%86%D8%AF%D9%88%D8%B2%DA%A9%D8%A7%D8%B1%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF%DA%A9%D8%B1%D8%AF%D9%88%D9%81%D8%A7%DB%8C%D9%84%D8%A7%DB%8C%D9%86%DA%A9%D9%86%D9%81%DB%8C%DA%AF(%D8%A8%D8%B1%D8%A7%DB%8C
 hysteria://uk1.shiyuandian.shop:7228?upmbps=100&downmbps=200&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&insecure=1&peer=uk1.shiyuandian.shop&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%E2%9E%B1t.me/Ir2nel
 hysteria://www.dtku46.xyz:11223?upmbps=50&downmbps=80&auth=mqoE9qSoyMFa&insecure=1&alpn=h3#hysteria_meta_1
-hysteria://www.dtku46.xyz:11223?upmbps=0&downmbps=0&insecure=1&alpn=h3#ip
+hysteria://www.dtku46.xyz:11223?upmbps=50&downmbps=50&insecure=1&alpn=h3#ip
 hysteria://www.dtku50.xyz:43250?upmbps=50&downmbps=80&auth=&insecure=1&peer=bing.com&alpn=h3#hysteria_meta_13
 tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@poke.rushshop.club:11163?congestion_control=bbr&alpn=h3&sni=poke.rushshop.club&udp_relay_mode=quic&disable_sni=1#desi
 tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@poke.rushshop.club:11163?congestion_control=bbr&alpn=h3&sni=poke.rushshop.club#@vmessprotocol%D8%B1%D9%81%D8%B9%D9%81%DB%8C%D9%84%D8%AA%D8%B1
