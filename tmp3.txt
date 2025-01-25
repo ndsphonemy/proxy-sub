@@ -69,6 +69,7 @@ trojan://vpn@217.144.185.20:2025/?type=ws&host=dns.google.com&security=none&path
 trojan://vpn@217.144.188.115:2025/?type=ws&host=dns.google.com&security=none&path=%2F#YouCrackByDiamondGlazFinland2gb
 trojan://vpn@217.197.107.82:2025/?type=ws&host=dns.google.com&security=none&path=%2F#YouCrackByDiamondGlazFinland2gb
 trojan://vpn@45.15.157.37:2025?type=ws&path=%2F&host=&security=none#YouCrackByDiamondGlazFrancessr://MTIwLjE5OC43MS4xNzQ6NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP3JlbWFya3M9OEorSHFQQ2ZoN05mNTdxLzZMZXY1YTZhNVlpMjc3eWFRRkZUTURBd01EZz0mcHJvdG9wYXJhbT1NVE16T1RBNlozVkxTMHc1T0RjNE5qZzVNQT09
+vless://free@193.37.68.187:7777?type=grpc&serviceName=%40diamondglaz&authority=&security=none#%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-Public
 ssr://MTIwLjE5OC43MS4xODM6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP3JlbWFya3M9OEorSHFQQ2ZoN05mNTdxLzZMZXY1YTZhNVlpMjc3eWFRRkZUTURBd01EZz0mcHJvdG9wYXJhbT1NVE16T1RBNlozVkxTMHc1T0RjNE5qZzVNQT09
 ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDI5OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09TWpRNlduaGlSamhtJnJlbWFya3M9OEotSHVQQ2ZoNndnNXBhdzVZcWc1WjJoSURJ
 ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDIzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09TWpRNlduaGlSamhtJnJlbWFya3M9OEotSHV2Q2ZoN2dnNTc2TzVadTlJREk
