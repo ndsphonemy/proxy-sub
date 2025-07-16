@@ -1,5 +1,5 @@
-# 127.0.0.1       localhost
-# ::1             ip6-localhost
+127.0.0.1       localhost
+::1             ip6-localhost
 
 ### dns.malw.link: hosts file
 # Последнее обновление: 4 июля 2025
