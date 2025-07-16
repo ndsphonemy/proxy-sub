@@ -141,6 +141,10 @@
 204.12.192.222 write-free.www.deepl.com
 204.12.192.222 experimentation.deepl.com
 
+204.12.192.222 ott.deepl.com
+204.12.192.222 ita-free.app.deepl.com
+204.12.192.222 experimentation-grpc.deepl.com
+
 # Deezer
 204.12.192.220 deezer.com
 204.12.192.220 www.deezer.com
