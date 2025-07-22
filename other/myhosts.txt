@@ -102,13 +102,13 @@
 204.12.192.222 accounts.x.ai
 204.12.192.222 assets.grok.com
 
-94.131.119.85 api-stream.twitter.com
-94.131.119.85 api.twitter.com
-94.131.119.85 pbs.twimg.com
-94.131.119.85 video.twimg.com
-94.131.119.85 api.x.com
-94.131.119.85 x.com
-94.131.119.85 graph.facebook.com
+157.240.245.174 api-stream.twitter.com
+157.240.245.174 api.twitter.com
+157.240.245.174 pbs.twimg.com
+157.240.245.174 video.twimg.com
+157.240.245.174 api.x.com
+157.240.245.174 x.com
+157.240.245.174 graph.facebook.com
 
 # Tidal
 204.12.192.222 api.tidal.com
