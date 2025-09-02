@@ -2,7 +2,7 @@
 ::1             ip6-localhost
 
 ### dns.malw.link: hosts file
-# Последнее обновление: 4 июля 2025
+# Последнее обновление: 31 августа 2025
 # Дополнение к zapret:
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
@@ -13,6 +13,7 @@
 3.66.189.153 mail.proton.me
 64.233.164.198 yt3.ggpht.com
 52.223.13.41 tracker.openbittorrent.com
+130.255.77.28 ntc.party
 
 # ChatGPT, OpenAI:
 204.12.192.222 chatgpt.com
@@ -152,6 +153,11 @@
 204.12.192.222 ott.deepl.com
 204.12.192.222 ita-free.app.deepl.com
 204.12.192.222 experimentation-grpc.deepl.com
+204.12.192.222 shield.deepl.com
+204.12.192.222 api-free.deepl.com
+204.12.192.222 backend.deepl.com
+204.12.192.222 clearance.deepl.com
+204.12.192.222 errortracking.deepl.com
 
 # Deezer
 204.12.192.220 deezer.com
@@ -175,11 +181,10 @@
 
 # 4PDA
 # 185.246.223.127 4pda.to
-# 45.81.252.72 cs11a0a.4pda.ws
-# 185.234.59.26 cs7f6c.4pda.ws
-# 217.182.194.171 cs4a0d.4pda.ws
-# 141.94.143.110 cs3b2e.4pda.ws
-# 54.36.104.75 cs2c9f.4pda.ws
+# 185.246.223.127 app.4pda.to
+# 185.246.223.127 s.4pda.to
+# 185.246.223.127 appbk.4pda.to
+
 
 # Другое:
 204.12.192.222 claude.ai
@@ -216,12 +221,17 @@
 0.0.0.0 ezstat.ru
 0.0.0.0 iplog.co
 0.0.0.0 grabify.org
-0.0.0.0 play.kakao.com
-0.0.0.0 get.daum.net
-0.0.0.0 track.tiara.daum.net
-0.0.0.0 adverweb.cjenm.com
-0.0.0.0 videofarm.daum.net
-0.0.0.0 display.ad.daum.net
-0.0.0.0 p1-play.edge4k.com
-0.0.0.0 p2-play.edge4k.com
+# Мусор/реклама:
+0.0.0.0 log16-platform-ycru.tiktokv.com
+# 0.0.0.0 adfox.yandex.ru
+# 0.0.0.0 adfstat.yandex.ru
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 ads-sg.tiktok.com
+# 0.0.0.0 an.yandex.ru
+# 0.0.0.0 appmetrica.yandex.ru
+# 0.0.0.0 mc.yandex.ru
+# 0.0.0.0 amc.yandex.ru
+
 ### dns.malw.link: end hosts file
