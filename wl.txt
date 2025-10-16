@@ -1,3 +1,4 @@
 vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?flow=&headerType=http&host=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%201%20%7C%204GB
 vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000?flow=&host=m.vk.com&path=%2F&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%202%20%7C%20Speed
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?flow=&host=m.vk.com&path=%2F&type=ws#%F0%9F%87%B1%F0%9F%87%BBLV(AzadNet.t.me)%20(1)
+vmess://b9d3c414-89cc-455d-b717-10c7ca1665a1@89.169.13.60:28838?encryption=auto&host=m.vk.com&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-WS-NA%204%E2%83%A3
