@@ -2,7 +2,7 @@
 ::1             ip6-localhost
 
 ### dns.malw.link: hosts file
-# Последнее обновление: 11 октября 2025
+# Последнее обновление: 17 октября 2025
 # Дополнение к zapret:
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
@@ -30,7 +30,7 @@
 185.246.223.127 cdn.auth0.com
 185.246.223.127 tcr9i.chat.openai.com
 185.246.223.127 webrtc.chatgpt.com
-204.12.192.219 android.chat.openai.com
+185.246.223.127 android.chat.openai.com
 185.246.223.127 api.openai.com
 45.95.233.23 operator.chatgpt.com
 185.246.223.127 sora.chatgpt.com
@@ -89,6 +89,8 @@
 50.7.85.221 datalore.jetbrains.com
 107.150.34.100 plugins.jetbrains.com
 185.246.223.127 download.jetbrains.com
+185.246.223.127 api.jetbrains.ai
+185.246.223.127 account.jetbrains.com
 
 # ElevenLabs:
 185.246.223.127 elevenlabs.io
@@ -148,7 +150,7 @@
 185.246.223.127 www.deepl.com
 185.246.223.127 www2.deepl.com
 185.246.223.127 login-wall.deepl.com
-204.12.192.219 w.deepl.com
+185.246.223.127 w.deepl.com
 185.246.223.127 s.deepl.com
 185.246.223.127 dict.deepl.com
 185.246.223.127 ita-free.www.deepl.com
@@ -180,10 +182,10 @@
 204.12.192.219 www.guilded.gg
 
 # Fitbit
-204.12.192.219 api.fitbit.com
-204.12.192.219 fitbit-pa.googleapis.com
-204.12.192.219 fitbitvestibuleshim-pa.googleapis.com
-204.12.192.219 fitbit.google.com
+185.246.223.127 api.fitbit.com
+185.246.223.127 fitbit-pa.googleapis.com
+185.246.223.127 fitbitvestibuleshim-pa.googleapis.com
+185.246.223.127 fitbit.google.com
 
 # Claude
 185.246.223.127 claude.ai
@@ -219,7 +221,7 @@
 185.246.223.127 www.notion.so
 50.7.85.222 www.canva.com
 185.246.223.127 www.intel.com
-204.12.192.219 www.dell.com
+185.246.223.127 www.dell.com
 50.7.85.219 www.tiktok.com # Только на сайте. Приложение определяет регион по оператору, а не по IP. Поэтому есть моды.
 142.54.189.106 web.archive.org # Блокирует от российских IP некоторые сайты
 185.246.223.127 developer.nvidia.com
