@@ -82,7 +82,7 @@
 45.155.204.190 www-growth.scdn.co
 
 # GitHub Copilot
-144.31.14.104 api.github.com
+#144.31.14.104 api.github.com
 144.31.14.104 api.individual.githubcopilot.com
 144.31.14.104 proxy.individual.githubcopilot.com
 
