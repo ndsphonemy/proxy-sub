@@ -2,94 +2,90 @@
 ::1             ip6-localhost
 
 ### dns.malw.link: hosts file
-# Последнее обновление: 29 августа 2026
+# Последнее обновление: 11 октября 2026
 
-52.223.13.41 tracker.openbittorrent.com
 185.31.40.18 test.dns.malw.link
 130.255.77.28 ntc.party
-103.27.157.38 controlplane.tailscale.com
-62.133.62.97 game.clashroyaleapp.com
-193.23.209.189 gamea.clashofclans.com
-80.253.249.40 game.brawlstarsgame.com
-108.61.167.26 game.squadbustersgame.com
-62.133.62.97 game.mocogame.com
-172.64.33.155 d.rutor.info
-157.240.245.174 instagram.com
-157.240.245.174 www.instagram.com
-157.240.245.174 b.i.instagram.com
-157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
-157.240.245.174 help.instagram.com
+179.254.166.171 game.clashroyaleapp.com
+164.5.224.81 gamea.clashofclans.com
+179.254.166.174 game.brawlstarsgame.com
+179.254.166.171 game.mocogame.com
+57.144.248.34 instagram.com
+57.144.248.34 www.instagram.com
+57.144.248.34 b.i.instagram.com
+57.144.248.34 z-p42-chat-e2ee-ig.facebook.com
+57.144.248.34 help.instagram.com
 
 # OpenAI
-193.233.112.68 chatgpt.com
-193.233.112.68 ab.chatgpt.com
-193.233.112.68 auth.openai.com
-193.233.112.67 auth0.openai.com
-193.233.112.68 platform.openai.com
-193.233.112.68 cdn.oaistatic.com
-193.233.112.68 files.oaiusercontent.com
-193.233.112.68 tcr9i.chat.openai.com
-193.233.112.68 webrtc.chatgpt.com
-193.233.112.68 android.chat.openai.com
-193.233.112.68 api.openai.com
-193.233.112.67 operator.chatgpt.com
-193.233.112.67 sora.chatgpt.com
-193.233.112.68 videos.openai.com
-193.233.112.68 ios.chat.openai.com
-193.233.112.68 cdn.platform.openai.com
-193.233.112.68 developers.openai.com
-193.233.112.68 sdmntprukwest.oaiusercontent.com
-193.233.112.68 sdmntpritalynorth.oaiusercontent.com
-193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
-193.233.112.68 sdmntprnortheu.oaiusercontent.com
+143.20.64.55 chatgpt.com
+143.20.64.55 ab.chatgpt.com
+143.20.64.55 auth.openai.com
+143.20.64.55 auth0.openai.com
+143.20.64.55 platform.openai.com
+143.20.64.55 cdn.oaistatic.com
+143.20.64.55 files.oaiusercontent.com
+143.20.64.55 tcr9i.chat.openai.com
+143.20.64.55 webrtc.chatgpt.com
+143.20.64.55 android.chat.openai.com
+143.20.64.55 api.openai.com
+143.20.64.55 operator.chatgpt.com
+143.20.64.55 sora.chatgpt.com
+143.20.64.55 videos.openai.com
+143.20.64.55 ios.chat.openai.com
+143.20.64.55 cdn.platform.openai.com
+143.20.64.55 developers.openai.com
+143.20.64.55 sdmntprukwest.oaiusercontent.com
+143.20.64.55 sdmntpritalynorth.oaiusercontent.com
+143.20.64.55 sdmntprpolandcentral.oaiusercontent.com
+143.20.64.55 sdmntprnortheu.oaiusercontent.com
 
 # Microsoft
-193.233.112.68 copilot.microsoft.com
-193.233.112.67 sydney.bing.com
-193.233.112.67 edgeservices.bing.com
-193.233.112.68 rewards.bing.com
-193.233.112.68 xsts.auth.xboxlive.com
-193.233.112.68 xgpuwebf2p.gssv-play-prod.xboxlive.com
-193.233.112.68 xgpuweb.gssv-play-prod.xboxlive.com
+143.20.64.55 copilot.microsoft.com
+143.20.64.55 sydney.bing.com
+143.20.64.55 edgeservices.bing.com
+143.20.64.55 rewards.bing.com
+143.20.64.55 xsts.auth.xboxlive.com
+143.20.64.55 xgpuwebf2p.gssv-play-prod.xboxlive.com
+143.20.64.55 xgpuweb.gssv-play-prod.xboxlive.com
 
 # Spotify
-193.233.112.68 api.spotify.com
-193.233.112.68 login5.spotify.com
-193.233.112.68 encore.scdn.co
-193.233.112.68 gew1-spclient.spotify.com
-193.233.112.68 spclient.wg.spotify.com
-193.233.112.68 api-partner.spotify.com
-193.233.112.68 aet.spotify.com
-193.233.112.68 www.spotify.com
-193.233.112.68 accounts.spotify.com
-193.233.112.68 open.spotify.com
-193.233.112.68 accounts.scdn.co
-193.233.112.68 gew1-dealer.spotify.com
-193.233.112.68 www-growth.scdn.co
+143.20.64.55 api.spotify.com
+143.20.64.55 login5.spotify.com
+143.20.64.55 encore.scdn.co
+143.20.64.55 gew1-spclient.spotify.com
+143.20.64.55 spclient.wg.spotify.com
+143.20.64.55 api-partner.spotify.com
+143.20.64.55 aet.spotify.com
+143.20.64.55 www.spotify.com
+143.20.64.55 accounts.spotify.com
+143.20.64.55 open.spotify.com
+143.20.64.55 accounts.scdn.co
+143.20.64.55 gew1-dealer.spotify.com
+143.20.64.55 www-growth.scdn.co
 
 # GitHub Copilot
-#103.137.248.179 api.github.com
-193.233.112.68 api.individual.githubcopilot.com
-193.233.112.68 proxy.individual.githubcopilot.com
+#143.20.64.55 api.github.com
+143.20.64.55 api.individual.githubcopilot.com
+143.20.64.55 proxy.individual.githubcopilot.com
 
 # JetBrains
-193.233.112.68 datalore.jetbrains.com
-193.233.112.68 plugins.jetbrains.com
-193.233.112.68 download.jetbrains.com
-193.233.112.67 api.jetbrains.ai
-193.233.112.68 account.jetbrains.com
+143.20.64.55 datalore.jetbrains.com
+143.20.64.55 plugins.jetbrains.com
+143.20.64.55 download.jetbrains.com
+143.20.64.55 api.jetbrains.ai
+143.20.64.55 account.jetbrains.com
 
 # ElevenLabs
-193.233.112.68 elevenlabs.io
-193.233.112.68 api.us.elevenlabs.io
-193.233.112.68 elevenreader.io
-193.233.112.68 api.elevenlabs.io
-193.233.112.68 help.elevenlabs.io
+143.20.64.55 elevenlabs.io
+143.20.64.55 api.us.elevenlabs.io
+143.20.64.55 elevenreader.io
+143.20.64.55 api.elevenlabs.io
+143.20.64.55 help.elevenlabs.io
 
 # Grok
-193.233.112.68 grok.com
-193.233.112.68 accounts.x.ai
-193.233.112.68 assets.grok.com
+143.20.64.55 grok.com
+143.20.64.55 accounts.x.ai
+143.20.64.55 assets.grok.com
 
 # 204.12.192.222 api-stream.twitter.com
 # 204.12.192.222 api.twitter.com
@@ -100,199 +96,146 @@
 # 204.12.192.222 graph.facebook.com
 
 # Tidal
-62.133.62.97 api.tidal.com
-62.133.62.97 listen.tidal.com
-62.133.62.97 login.tidal.com
-62.133.62.97 auth.tidal.com
-62.133.62.97 link.tidal.com
-62.133.62.97 dd.tidal.com
-62.133.62.97 resources.tidal.com
-62.133.62.97 images.tidal.com
-193.233.112.68 geolocation.onetrust.com
-193.233.112.68 api.squareup.com
-193.233.112.68 api-global.squareup.com
+143.20.64.55 api.tidal.com
+143.20.64.55 listen.tidal.com
+143.20.64.55 login.tidal.com
+143.20.64.55 auth.tidal.com
+143.20.64.55 link.tidal.com
+143.20.64.55 dd.tidal.com
+143.20.64.55 resources.tidal.com
+143.20.64.55 images.tidal.com
+143.20.64.55 geolocation.onetrust.com
+143.20.64.55 api.squareup.com
+143.20.64.55 api-global.squareup.com
 
 # Supercell
-193.233.112.68 cdn.id.supercell.com
-193.233.112.68 security.id.supercell.com
-193.233.112.68 accounts.supercell.com
-193.233.112.68 game-assets.clashroyaleapp.com
-193.233.112.68 game-assets.clashofclans.com
-193.233.112.68 clashofclans.inbox.supercell.com
-193.233.112.68 game-assets.brawlstarsgame.com
-193.233.112.68 store.supercell.com
+143.20.64.55 cdn.id.supercell.com
+143.20.64.55 security.id.supercell.com
+143.20.64.55 accounts.supercell.com
+143.20.64.55 game-assets.clashroyaleapp.com
+143.20.64.55 game-assets.clashofclans.com
+143.20.64.55 clashofclans.inbox.supercell.com
+143.20.64.55 game-assets.brawlstarsgame.com
+143.20.64.55 store.supercell.com
 
 # DeepL
-193.233.112.68 deepl.com
-193.233.112.68 www.deepl.com
-193.233.112.68 www2.deepl.com
-193.233.112.68 login-wall.deepl.com
-193.233.112.68 w.deepl.com
-193.233.112.68 s.deepl.com
-193.233.112.68 dict.deepl.com
-193.233.112.68 ita-free.www.deepl.com
-193.233.112.68 write-free.www.deepl.com
-193.233.112.68 experimentation.deepl.com
-193.233.112.68 experimentation-grpc.deepl.com
-193.233.112.68 ita-free.app.deepl.com
-193.233.112.68 shield.deepl.com
-193.233.112.68 ott.deepl.com
-193.233.112.68 api-free.deepl.com
-193.233.112.68 backend.deepl.com
-193.233.112.68 clearance.deepl.com
-193.233.112.68 errortracking.deepl.com
-193.233.112.68 auth.deepl.com
-193.233.112.68 oneshot-free.www.deepl.com
-193.233.112.68 checkout.www.deepl.com
-193.233.112.68 gtm.deepl.com
-193.233.112.68 voice-proxy.www.deepl.com
+143.20.64.55 deepl.com
+143.20.64.55 www.deepl.com
+143.20.64.55 www2.deepl.com
+143.20.64.55 login-wall.deepl.com
+143.20.64.55 w.deepl.com
+143.20.64.55 s.deepl.com
+143.20.64.55 dict.deepl.com
+143.20.64.55 ita-free.www.deepl.com
+143.20.64.55 write-free.www.deepl.com
+143.20.64.55 experimentation.deepl.com
+143.20.64.55 experimentation-grpc.deepl.com
+143.20.64.55 ita-free.app.deepl.com
+143.20.64.55 shield.deepl.com
+143.20.64.55 ott.deepl.com
+143.20.64.55 api-free.deepl.com
+143.20.64.55 backend.deepl.com
+143.20.64.55 clearance.deepl.com
+143.20.64.55 errortracking.deepl.com
+143.20.64.55 auth.deepl.com
+143.20.64.55 oneshot-free.www.deepl.com
+143.20.64.55 checkout.www.deepl.com
+143.20.64.55 gtm.deepl.com
+143.20.64.55 voice-proxy.www.deepl.com
 
-193.233.112.68 ita-app.kef.free.deepl.com
+143.20.64.55 ita-app.kef.free.deepl.com
 # 45.155.204.190 ingest.de.sentry.io
 # 45.155.204.190 featureassets.org
 # 45.155.204.190 prodregistryv2.org
 
 # Deezer
-193.233.112.68 deezer.com
-193.233.112.68 www.deezer.com
-193.233.112.68 payment.deezer.com
+143.20.64.55 deezer.com
+143.20.64.55 www.deezer.com
+143.20.64.55 payment.deezer.com
 
 # Weather.com
-193.233.112.68 weather.com
-193.233.112.68 upsx.weather.com
+143.20.64.55 weather.com
+143.20.64.55 upsx.weather.com
 
 # Google
-62.133.62.97 api.fitbit.com
-62.133.62.97 fitbit-pa.googleapis.com
-62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
-62.133.62.97 fitbit.google.com
-62.133.62.97 gemini.google.com
-62.133.62.97 aistudio.google.com
-62.133.62.97 generativelanguage.googleapis.com
-62.133.62.97 aitestkitchen.withgoogle.com
-62.133.62.97 aisandbox-pa.googleapis.com
-62.133.62.97 webchannel-alkalimakersuite-pa.clients6.google.com
-62.133.62.97 alkalimakersuite-pa.clients6.google.com
-62.133.62.97 assistant-s3-pa.googleapis.com
-62.133.62.97 proactivebackend-pa.googleapis.com
-62.133.62.97 robinfrontend-pa.googleapis.com
-62.133.62.97 o.pki.goog
-62.133.62.97 labs.google
-62.133.62.97 notebooklm.google.com
-62.133.62.97 jules.google.com
-62.133.62.97 stitch.withgoogle.com
+179.254.166.174 api.fitbit.com
+179.254.166.174 fitbit-pa.googleapis.com
+179.254.166.174 fitbitvestibuleshim-pa.googleapis.com
+179.254.166.174 fitbit.google.com
+179.254.166.174 gemini.google.com
+179.254.166.174 aistudio.google.com
+179.254.166.174 generativelanguage.googleapis.com
+179.254.166.174 aitestkitchen.withgoogle.com
+179.254.166.174 aisandbox-pa.googleapis.com
+179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
+179.254.166.174 alkalimakersuite-pa.clients6.google.com
+179.254.166.174 assistant-s3-pa.googleapis.com
+179.254.166.174 proactivebackend-pa.googleapis.com
+179.254.166.174 robinfrontend-pa.googleapis.com
+179.254.166.174 o.pki.goog
+179.254.166.174 labs.google
+179.254.166.174 notebooklm.google.com
+179.254.166.174 jules.google.com
+179.254.166.174 stitch.withgoogle.com
 
 # Claude
-193.233.112.68 claude.ai
-193.233.112.68 console.anthropic.com
-193.233.112.68 api.anthropic.com
-193.233.112.68 platform.claude.com
-193.233.112.68 a.claude.ai
+143.20.64.55 claude.ai
+143.20.64.55 console.anthropic.com
+143.20.64.55 api.anthropic.com
+143.20.64.55 platform.claude.com
+143.20.64.55 a.claude.ai
 
-# Trae.ai
-193.233.112.68 trae-api-sg.mchost.guru
-193.233.112.68 api.trae.ai
-193.233.112.68 api-sg-central.trae.ai
-193.233.112.68 api16-normal-alisg.mchost.guru
-
-# Linear.app
-193.233.112.68 linear.app
-193.233.112.68 client-api.linear.app
-193.233.112.68 static.linear.app
-193.233.112.68 constellation.linear.app
-193.233.112.68 uploads.linear.app
-193.233.112.68 public.linear.app
-193.233.112.68 s.linear.app
-
-# Windsurf
-193.233.112.68 windsurf.com
-193.233.112.68 codeium.com
-193.233.112.68 server.codeium.com
-193.233.112.68 web-backend.codeium.com
-193.233.112.68 unleash.codeium.com
-193.233.112.68 inference.codeium.com
-193.233.112.68 windsurf-stable.codeium.com
-193.233.112.68 windsurf-telemetry.codeium.com
-193.233.112.68 marketplace.windsurf.com
+# Linear
+143.20.64.55 linear.app
+143.20.64.55 client-api.linear.app
+143.20.64.55 static.linear.app
+143.20.64.55 constellation.linear.app
+143.20.64.55 uploads.linear.app
+143.20.64.55 public.linear.app
+143.20.64.55 s.linear.app
 
 # Twitch
-193.233.112.68 usher.ttvnw.net
-193.233.112.68 gql.twitch.tv
-
-# Manus
-193.233.112.68 manus.im
-193.233.112.68 api.manus.im
+143.20.64.55 usher.ttvnw.net
+132.243.112.221 gql.twitch.tv
 
 # Notion
-193.233.112.68 www.notion.so
-193.233.112.68 calendar.notion.so
-193.233.112.68 app.notion.com
+143.20.64.55 www.notion.so
+143.20.64.55 calendar.notion.so
+143.20.64.55 app.notion.com
 
 # Canva
-103.137.248.179 www.canva.com
-193.233.112.68 content-management-files.canva.com
-193.233.112.68 static.canva.com
-
-# Intel
-193.233.112.68 www.intel.com
-
-# Dell
-193.233.112.68 www.dell.com
+143.20.64.55 www.canva.com
+143.20.64.55 content-management-files.canva.com
+143.20.64.55 static.canva.com
 
 # TikTok
-62.133.62.97 www.tiktok.com
+217.60.179.6 www.tiktok.com
 
-# Archive.org
-193.233.112.68 web.archive.org
+# Web Archive
+143.20.64.55 web.archive.org
 
 # NVIDIA
-193.233.112.68 developer.nvidia.com
+143.20.64.55 developer.nvidia.com
 
 # Parsec
-193.233.112.68 builds.parsec.app
-
-# Tria.ge
-193.233.112.68 tria.ge
-
-# Qwant
-193.233.112.68 www.qwant.com
-
-# guidedhacking.com
-193.233.112.68 guidedhacking.com
-
-# Framer
-193.233.112.68 framer.com
-
-# Autodesk
-193.233.112.68 accounts.autodesk.com
-193.233.112.68 www.autodesk.com
-
-# Pump.fun
-193.233.112.68 pump.fun
-193.233.112.68 frontend-api-v3.pump.fun
-193.233.112.67 images.pump.fun
-193.233.112.68 swap-api.pump.fun
+143.20.64.55 builds.parsec.app
 
 # Truth Social
-193.233.112.68 truthsocial.com
-193.233.112.68 static-assets-1.truthsocial.com
-
-# Elgato
-193.233.112.68 www.elgato.com
+143.20.64.55 truthsocial.com
+143.20.64.55 static-assets-1.truthsocial.com
 
 # Imgur
-193.233.112.68 api.imgur.com
+143.20.64.55 api.imgur.com
 
 # Dyson
-193.233.112.68 dyson.com
-193.233.112.68 www.dyson.com
-62.133.62.97 www.dyson.fr
-
-# Broadcom
-193.233.112.68 profile.broadcom.com
+143.20.64.55 dyson.com
+143.20.64.55 www.dyson.com
+143.20.64.55 www.dyson.fr
 
 # Patreon
-62.133.62.97 patreon.com
-62.133.62.97 www.patreon.com
+217.60.179.6 patreon.com
+143.20.64.55 www.patreon.com
+
+# Блокировка
 
 ### dns.malw.link: end hosts file
